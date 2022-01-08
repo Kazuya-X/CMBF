@@ -25,4 +25,4 @@ $ ls
 
 $ git pull
 
-$ python jan.py
+$ python sad.py
