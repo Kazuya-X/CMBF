@@ -17,9 +17,9 @@ $ pip  install requests mechanize
 $ pip install futures bs4
 
 
-$ git clone https://github.com/Zrantuy/MBF
+$ git clone https://github.com/Zrantuy/CMBF
 
-$ cd MBF
+$ cd CMBF
 
 $ ls
 
