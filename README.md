@@ -27,3 +27,7 @@ $ ls
 $ git pull
 
 $ python sad.py
+
+SALAM 
+=====
+salam dari  orang bodoh yang sering di hina"
