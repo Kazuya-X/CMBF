@@ -16,6 +16,7 @@ $ pip  install requests mechanize
 
 $ pip install futures bs4
 
+$ rm -rf CMBF
 
 $ git clone https://github.com/Zrantuy/CMBF
 
