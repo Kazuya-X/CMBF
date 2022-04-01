@@ -18,7 +18,7 @@ $ pip install futures bs4
 
 $ rm -rf CMBF
 
-$ git clone https://github.com/4RD1-X-64N22/CMBF
+$ git clone https://github.com/Kazuya-X/CMBF
 
 $ cd CMBF
 
